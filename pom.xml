@@ -18,7 +18,7 @@
     <repositories>
     <repository>
         <id>central</id>
-        <url>https://repo.maven.apache.org/maven2</url>
+        <url>https://repol.maven.apache.org/maven2</url>
     </repository>
     <repository>
         <id>public releases</id>
